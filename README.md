@@ -18,4 +18,9 @@ Coloque aqui seu nome, colaborador 😁
 
 - [Aline Takai](https://github.com/alinetakai)
 - [Bianca Bastos](https://github.com/BiaHashi)
+<<<<<<< HEAD
 - [dudu](https://github.com/duduzim182)
+
+=======
+- [Vitor](https://github.com/VitorDCqwe)
+>>>>>>> 57c0241aa7a78983382789e2d312fb3ba306cd0b
