@@ -10,3 +10,4 @@ Passos para iniciar um repositório Git, criar uma pasta, adicionar um arquivo s
 5°- Caso queira editar seu arquivo no GitHub, clique o ícone com a aparência de um lápís para editá-lo;
 6°- Após editá-lo, clique no botão commit changes para salvar as alterações feitas no GitHub;
 7°- Para salvar no repositório local, com ele ainda aberto, use o comando git pull para salvar as alterações feitas.
+Colaboração Bianca
