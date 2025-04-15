@@ -20,3 +20,4 @@ Coloque aqui seu nome, colaborador 😁
 - [Bianca Bastos](https://github.com/BiaHashi)
 - [dudu](https://github.com/duduzim182)
 - [Vitor](https://github.com/VitorDCqwe)
+- [Penélope](https://github.com/PenelopeFarias745)
