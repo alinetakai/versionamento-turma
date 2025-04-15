@@ -10,6 +10,11 @@
 
 **🚨 Passos para iniciar um repositório Git, criar uma pasta, adicionar um arquivo, salvar as alterações e enviar para o repositório remoto**
 
+
+
 **😉🚀💻 Colaboradores 💻🚀😉**
+
+Coloque aqui seu nome, colaborador 😁
+
 - [Aline Takai](https://github.com/alinetakai)
 - [Bianca Bastos](https://github.com/BiaHashi)
