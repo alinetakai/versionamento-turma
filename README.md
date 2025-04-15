@@ -10,7 +10,11 @@
 
 **🚨 Passos para iniciar um repositório Git, criar uma pasta, adicionar um arquivo, salvar as alterações e enviar para o repositório remoto**
 
-
+Iniciar um repositório: git init
+Criar uma pasta: mkdir nomeDaPasta
+Adicionar um arquivo: git add nomeDoArquivo
+Salvar alterações: git commit -m "mensagem"
+Enviar para um repositório remoto: git remote add origin url 
 
 **😉🚀💻 Colaboradores 💻🚀😉**
 
